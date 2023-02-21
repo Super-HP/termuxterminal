@@ -4,13 +4,12 @@ command_not_found_handle() {
 
 python /data/data/com.termux/files/usr/etc/login_script.py
 
-PS1="/root/>> "
+PS1="PrinceXterminaL...\>"
 
 clear
-echo "Created By Super-HP"
+echo "Created By Legend HACKER Pince"
 echo "----------------------------" | lolcat
-echo "Instagram :@ super__hp__"
-echo "Github: github.com/super-hp/"
+echo "Instagram :@legendxprince143"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
